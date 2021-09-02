@@ -1,0 +1,43 @@
+body{
+	background-color: #DFFAFC;
+}
+
+
+
+@font-face{
+	font-family: "fuente1";
+	src: url("../fonts/BubbleShine.otf");
+}
+
+.cuadro{
+	background-color: #3D99AE;
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: "fuente1";
+}
+
+.centrado{
+	margin-left:  auto;
+	margin-right: auto;
+
+}
+
+.fondofila{
+	background-color: #3D99AE;
+}
+
+.titulo{
+	font-size: 90px;
+}
+
+.colorboton{
+	background-color: #3D99AE;
+	border-color:  #2B7A8C;
+}
+
+.colorboton:hover{
+    background-color: #2B7A8C;
+    border-color: #2B7A8C;
+}
+
